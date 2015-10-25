@@ -1,7 +1,7 @@
 var config = {
     site: {
         url: 'http://localhost:3000',
-        title: 'Translation System Basic',
+        title: 'Basic Translation System',
         language: 'en',
         html: {
             engine: 'jade',
