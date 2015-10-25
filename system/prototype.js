@@ -1,6 +1,6 @@
 Array.prototype.inArray = function() {
     for(var j in this) {
-        if(this[j] == argument[0]) {
+        if(this[j] == arguments[0]) {
             return true;
         }
     }
